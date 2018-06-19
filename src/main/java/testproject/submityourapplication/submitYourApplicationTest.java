@@ -38,7 +38,7 @@ public class submitYourApplicationTest extends
 
         settings.selectFromPositionYouAreApplyingList(testdata.Position);
 
-        settings.uploadCv();
+//        settings.uploadCv();
 
         settings.insertLinkedInProfile(testdata.LinkedIn);
 
